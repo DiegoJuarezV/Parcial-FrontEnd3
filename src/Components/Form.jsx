@@ -67,7 +67,7 @@ const Form = () => {
       )}
 
       {error && (
-        <h4 style={{ color: "red" }}>Por favor, verifique su información</h4>
+        <h4 style={{ color: "red" }}>Por favor chequea que la información sea correcta</h4>
       )}
     </>
   )
