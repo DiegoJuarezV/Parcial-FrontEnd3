@@ -1,0 +1,8 @@
+.formCss {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputCss {
+  margin: 0.5rem 0 1.2rem 0;
+}
